@@ -85,5 +85,5 @@ logo_style: 'width: 280px; height: 70px;'
   </div>
   <br/>
   <h2 class="pb-2 border-bottom"></h2>
-  <img src="images/turing-open-lecture.jpg" width=1000 />
+  <img src="images/turing-open-lecture.jpg" width="100%" />
 </div>
