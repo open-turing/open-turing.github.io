@@ -41,8 +41,8 @@ logo_style: 'width: 280px; height: 70px;'
       <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
         <svg class="bi" width="1em" height="1em"><use xlink:href="#collection"/></svg>
       </div>
-      <center><h3 class="fs-2">문수복</h3></center>
-      <center><h5 class="fs-4">KAIST 전산학부 교수</h5></center>
+      <center><h3 class="fs-2">문수복 교수</h3></center>
+      <center><h5 class="fs-4">KAIST 전산학부</h5></center>
       <center><h5 class="fs-4">2022년 수상 업적 해설</h5></center>
       <center>
         수상자:
@@ -56,8 +56,8 @@ logo_style: 'width: 280px; height: 70px;'
       <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
         <svg class="bi" width="1em" height="1em"><use xlink:href="#people-circle"/></svg>
       </div>
-      <center><h3 class="fs-2">이남훈</h3></center>
-      <center><h5 class="fs-4">포항공대 컴퓨터공학과 조교수</h5></center>
+      <center><h3 class="fs-2">이남훈 교수</h3></center>
+      <center><h5 class="fs-4">포항공대 컴퓨터공학과</h5></center>
       <center><h5 class="fs-4">2018년 수상 업적 해설</h5></center>
       <center>수상자:
         <a href="https://amturing.acm.org/award_winners/bengio_3406375.cfm">Y. Bengio</a>,
@@ -72,8 +72,8 @@ logo_style: 'width: 280px; height: 70px;'
       <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
         <svg class="bi" width="1em" height="1em"><use xlink:href="#people-circle"/></svg>
       </div>
-      <center><h3 class="fs-2">송용수</h3></center>
-      <center><h5 class="fs-4">서울대 컴퓨터공학부 조교수</h5></center>
+      <center><h3 class="fs-2">송용수 교수</h3></center>
+      <center><h5 class="fs-4">서울대 컴퓨터공학부</h5></center>
       <center><h5 class="fs-4">2012년 수상 업적 해설</h5></center>
       <center>
         수상자:
