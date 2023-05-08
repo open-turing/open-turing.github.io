@@ -33,56 +33,57 @@ logo_style: 'width: 280px; height: 70px;'
 
 <div class="container px-4 py-5" id="featured-3">
   <h2 class="pb-2 border-bottom">강연자</h2>
-    <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
-      <div class="feature col">
-          <div class="profile">
-            <img src="images/moon.png"/>
-          </div>
-        <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
-          <svg class="bi" width="1em" height="1em"><use xlink:href="#collection"/></svg>
-        </div>
-        <center><h3 class="fs-2">문수복</h3></center>
-        <center><h5 class="fs-4">KAIST 전산학부 교수</h5></center>
-        <center><h5 class="fs-4">2022년 수상 업적 해설</h5></center>
-        <center>
+  <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+    <div class="feature col">
+      <div class="profile">
+        <img src="images/moon.png"/>
+      </div>
+      <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
+        <svg class="bi" width="1em" height="1em"><use xlink:href="#collection"/></svg>
+      </div>
+      <center><h3 class="fs-2">문수복</h3></center>
+      <center><h5 class="fs-4">KAIST 전산학부 교수</h5></center>
+      <center><h5 class="fs-4">2022년 수상 업적 해설</h5></center>
+      <center>
         수상자:
         <a href="https://amturing.acm.org" class="icon-link">R. Metcalfe</a>
-        </center>
+      </center>
+    </div>
+    <div class="feature col">
+      <div class="profile">
+        <img src="images/lee.jpg" class="center margin=1px"/>
       </div>
-      <div class="feature col">
-       <div class="profile">
-          <img src="images/lee.jpg" class="center margin=1px"/>
-        </div>
-        <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
-          <svg class="bi" width="1em" height="1em"><use xlink:href="#people-circle"/></svg>
-         </div>
-        <center><h3 class="fs-2">이남훈</h3></center>
-        <center><h5 class="fs-4">포항공대 컴퓨터공학과 조교수</h5></center>
-        <center><h5 class="fs-4">2018년 수상 업적 해설</h5></center>
-        <center>
-          수상자:
-          <a href="https://amturing.acm.org/award_winners/bengio_3406375.cfm">Y. Bengio</a>,
-          <a href="https://amturing.acm.org/award_winners/hinton_4791679.cfm">G. Hinton</a>,
-          <a href="https://amturing.acm.org/award_winners/lecun_6017366.cfm">Y. Lecun</a>
-        </center>
+      <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
+        <svg class="bi" width="1em" height="1em"><use xlink:href="#people-circle"/></svg>
       </div>
-      <div class="feature col">
-        <div class="profile">
-          <img src="images/song.jpeg"/>
-        </div>
-        <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
-          <svg class="bi" width="1em" height="1em"><use xlink:href="#people-circle"/></svg>
-        </div>
-        <center><h3 class="fs-2">송용수</h3></center>
-        <center><h5 class="fs-4">서울대 컴퓨터공학부 조교수</h5></center>
-        <center><h5 class="fs-4">2012년 수상 업적 해설</h5></center>
-        <center>
-          수상자:
-          <a href="https://amturing.acm.org/award_winners/adleman_7308544.cfm" class="icon-link">L. Adleman</a>,
-          <a href="https://amturing.acm.org/award_winners/rivest_1403005.cfm">R. Rivest</a>,
-          <a href="https://amturing.acm.org/award_winners/shamir_2327856.cfm">A. Shamir</a>
-        </center>
+      <center><h3 class="fs-2">이남훈</h3></center>
+      <center><h5 class="fs-4">포항공대 컴퓨터공학과 조교수</h5></center>
+      <center><h5 class="fs-4">2018년 수상 업적 해설</h5></center>
+      <center>수상자:
+        <a href="https://amturing.acm.org/award_winners/bengio_3406375.cfm">Y. Bengio</a>,
+        <a href="https://amturing.acm.org/award_winners/hinton_4791679.cfm">G. Hinton</a>,
+        <a href="https://amturing.acm.org/award_winners/lecun_6017366.cfm">Y. Lecun</a>
+      </center>
+    </div>
+    <div class="feature col">
+      <div class="profile">
+        <img src="images/song.jpeg"/>
       </div>
+      <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
+        <svg class="bi" width="1em" height="1em"><use xlink:href="#people-circle"/></svg>
+      </div>
+      <center><h3 class="fs-2">송용수</h3></center>
+      <center><h5 class="fs-4">서울대 컴퓨터공학부 조교수</h5></center>
+      <center><h5 class="fs-4">2012년 수상 업적 해설</h5></center>
+      <center>
+        수상자:
+        <a href="https://amturing.acm.org/award_winners/adleman_7308544.cfm" class="icon-link">L. Adleman</a>,
+        <a href="https://amturing.acm.org/award_winners/rivest_1403005.cfm">R. Rivest</a>,
+        <a href="https://amturing.acm.org/award_winners/shamir_2327856.cfm">A. Shamir</a>
+      </center>
     </div>
   </div>
-
+  <br/>
+  <h2 class="pb-2 border-bottom"></h2>
+  <img src="images/turing-open-lecture.jpg" width=1000 />
+</div>
