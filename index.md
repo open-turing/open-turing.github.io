@@ -77,8 +77,8 @@ logo_style: 'width: 280px; height: 70px;'
       <center><h5 class="fs-4">2012년 수상 업적 해설</h5></center>
       <center>
         수상자:
-        <a href="https://amturing.acm.org/award_winners/goldwasser_8627889.cfm" class="icon-link">S. GOLDWASSER</a>,
-        <a href="https://amturing.acm.org/award_winners/micali_0557920.cfm">S. Micali</a>,
+        <a href="https://amturing.acm.org/award_winners/goldwasser_8627889.cfm" class="icon-link">S. Goldwasser</a>,
+        <a href="https://amturing.acm.org/award_winners/micali_0557920.cfm">S. Micali</a>
       </center>
     </div>
   </div>
