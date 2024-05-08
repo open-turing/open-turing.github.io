@@ -11,7 +11,7 @@ title: Event
   {% for item in site.data.event %}
     <tr>
       <td>{{ item.date }}</td>
-      <td>{{ item.title }}</td>
+      <td><a href="{{ site.url }}/previous/{{ item.year }}.html">{{ item.title }}</a></td>
       <td>{{ item.speaker }}</td>
       <td>{{ item.place }}</td>
     </tr>
