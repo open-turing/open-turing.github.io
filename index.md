@@ -45,9 +45,7 @@ logo_style: 'width: 280px; height: 70px;'
       <center><h5 class="fs-4">서울대 컴퓨터공학부</h5></center>
       <center>
         <h5 class="fs-5">
-          <a href="https://www.youtube.com/watch?v=EJDMP6KtIhs">
-            <i class="fa-brands fa-youtube" style="color: #ff2600;"></i> 2023년 수상 업적 해설
-          </a>
+        2023년 수상 업적 해설
         </h5>
       </center>
       <center>
@@ -66,9 +64,7 @@ logo_style: 'width: 280px; height: 70px;'
       <center><h5 class="fs-4">KAIST 전산학부</h5></center>
       <center>
         <h5 class="fs-5">
-          <a href="https://www.youtube.com/watch?v=3Kq9uwe1sUM">
-            <i class="fa-brands fa-youtube" style="color: #ff2600;"></i> 2023년 수상 업적 해설
-          </a>
+          2023년 수상 업적 해설
         </h5>
       </center>
       <center>수상자:
@@ -86,9 +82,7 @@ logo_style: 'width: 280px; height: 70px;'
       <center><h5 class="fs-4">KAIST 전산학부</h5></center>
       <center>
         <h5 class="fs-5">
-          <a href="https://www.youtube.com/watch?v=ZOrxMO-NGOQ">
-            <i class="fa-brands fa-youtube" style="color: #ff2600;"></i> 2013년 수상 업적 해설
-          </a>
+          2013년 수상 업적 해설
         </h5>
       </center>
       <center>
@@ -107,9 +101,7 @@ logo_style: 'width: 280px; height: 70px;'
       <center><h5 class="fs-4">포항공대 컴퓨터공학과</h5></center>
       <center>
         <h5 class="fs-5">
-          <a href="https://www.youtube.com/watch?v=ZOrxMO-NGOQ">
-            <i class="fa-brands fa-youtube" style="color: #ff2600;"></i> 2003년 수상 업적 해설
-          </a>
+          2003년 수상 업적 해설
         </h5>
       </center>
       <center>
