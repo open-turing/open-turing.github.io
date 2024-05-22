@@ -32,6 +32,11 @@ logo_style: 'width: 280px; height: 70px;'
 </div>
 
 <div class="container px-4 py-5" id="featured-3">
+  <h2 class="pb-2 border-bottom">생중계</h2>
+  <h4>본 강연은 <a href="https://www.youtube.com/live/0K0pEduKKWI?si=CdKnq9DEfHRHnKNP">유투브로 생중계</a> 될 예정입니다.</h4>
+</div>
+
+<div class="container px-4 py-5" id="featured-3">
   <h2 class="pb-2 border-bottom">강연자</h2>
   <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
     <div class="feature col">
