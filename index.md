@@ -72,7 +72,7 @@ logo_style: 'width: 280px; height: 70px;'
       <center><h5 class="fs-4">KAIST 전산학부</h5></center>
       <center>
         <h5 class="fs-5">
-          2027년 수상 업적 해설
+          2017년 수상 업적 해설
         </h5>
       </center>
       <center>수상자:
@@ -91,7 +91,7 @@ logo_style: 'width: 280px; height: 70px;'
       <center><h5 class="fs-4">서울대 컴퓨터공학부</h5></center>
       <center>
         <h5 class="fs-5">
-          2013년 수상 업적 해설
+          2004년 수상 업적 해설
         </h5>
       </center>
       <center>
