@@ -53,7 +53,7 @@ logo_style: 'width: 280px; height: 70px;'
       <center><h5 class="fs-4">포항공대 컴퓨터공학과</h5></center>
       <center>
         <h5 class="fs-5">
-        2024년 수상 업적 해설
+        2024년 수상 업적 (강화학습) 해설
         </h5>
       </center>
       <center>
@@ -72,7 +72,7 @@ logo_style: 'width: 280px; height: 70px;'
       <center><h5 class="fs-4">KAIST 전산학부</h5></center>
       <center>
         <h5 class="fs-5">
-          2017년 수상 업적 해설
+          2017년 수상 업적 (컴퓨터구조) 해설
         </h5>
       </center>
       <center>수상자:
@@ -91,7 +91,7 @@ logo_style: 'width: 280px; height: 70px;'
       <center><h5 class="fs-4">서울대 컴퓨터공학부</h5></center>
       <center>
         <h5 class="fs-5">
-          2004년 수상 업적 해설
+          2004년 수상 업적 (인터넷) 해설
         </h5>
       </center>
       <center>
