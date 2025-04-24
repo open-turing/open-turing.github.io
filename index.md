@@ -36,7 +36,7 @@ logo_style: 'width: 280px; height: 70px;'
 
 <div class="container px-4 py-5" id="featured-3">
   <h2 class="pb-2 border-bottom">생중계</h2>
-  <h4>본 강연은 유투브로 생중계 될 예정입니다.</h4>
+  <h4>본 강연은 <a href="https://www.youtube.com/live/RNIKN2YUTj4">유투브로 생중계</a> 될 예정입니다.</h4>
 </div>
 
 <div class="container px-4 py-5" id="featured-3">
@@ -44,7 +44,7 @@ logo_style: 'width: 280px; height: 70px;'
   <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
     <div class="feature col">
       <div class="profile">
-        <img src="{{ site.url }}/images/jsok.png"/>
+        <img src="{{ site.url }}/images/2025/jsok.png"/>
       </div>
       <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
         <svg class="bi" width="1em" height="1em"><use xlink:href="#collection"/></svg>
@@ -63,7 +63,7 @@ logo_style: 'width: 280px; height: 70px;'
     </div>
     <div class="feature col">
       <div class="profile">
-        <img src="{{ site.url }}/images/jhhuh.jpg" class="center margin=1px"/>
+        <img src="{{ site.url }}/images/2025/jhhuh.jpg" class="center margin=1px"/>
       </div>
       <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
         <svg class="bi" width="1em" height="1em"><use xlink:href="#people-circle"/></svg>
@@ -82,7 +82,7 @@ logo_style: 'width: 280px; height: 70px;'
     </div>
     <div class="feature col">
       <div class="profile">
-        <img src="{{ site.url }}/images/kspark.png"/>
+        <img src="{{ site.url }}/images/2025/kspark.png"/>
       </div>
       <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
         <svg class="bi" width="1em" height="1em"><use xlink:href="#people-circle"/></svg>
@@ -103,5 +103,5 @@ logo_style: 'width: 280px; height: 70px;'
   </div>
   <br/>
   <h2 class="pb-2 border-bottom"></h2>
-  <!-- <img src="{{ site.url }}/images/2024.jpg" width="100%" /> -->
+  <img src="{{ site.url }}/images/2025/2025.png" width="100%" />
 </div>
