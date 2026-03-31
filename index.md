@@ -94,12 +94,12 @@ logo_style: 'width: 280px; height: 70px;'
         <svg class="bi" width="1em" height="1em"><use xlink:href="#people-circle"/></svg>
       </div>
       <center><h3 class="fs-3">이원열 교수</h3></center>
-      <center><h5 class="fs-4">POSTECH 컴퓨터공학부</h5></center>
+      <center><h5 class="fs-4">POSTECH 컴퓨터공학과</h5></center>
       <center>
         <h5 class="fs-5">
           <!-- <a href="https://www.youtube.com/watch?v=snBFsEvaX2Q">
             <i class="fa-brands fa-youtube" style="color: #ff2600;"></i> -->
-              2004년 수상 업적(프로그래밍언어) 해설
+              2005년 수상 업적(프로그래밍언어) 해설
           <!-- </a> -->
         </h5>
       </center>
