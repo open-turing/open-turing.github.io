@@ -111,5 +111,5 @@ logo_style: 'width: 280px; height: 70px;'
   </div>
   <br/>
   <h2 class="pb-2 border-bottom"></h2>
-  <!-- <img src="{{ site.url }}/images/2025/2025.png" width="100%" /> -->
+  <img src="{{ site.url }}/images/2026/poster.jpg" width="100%" />
 </div>
