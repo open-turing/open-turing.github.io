@@ -110,6 +110,8 @@ logo_style: 'width: 280px; height: 70px;'
     </div>
   </div>
   <br/>
-  <h2 class="pb-2 border-bottom"></h2>
+  <a href="https://photos.app.goo.gl/zgVPJVtvZammv2pB7">
+  <h2 class="pb-2 border-bottom">행사사진</h2>
+  </a>
   <img src="{{ site.url }}/images/2026/poster.jpg" width="100%" />
 </div>
