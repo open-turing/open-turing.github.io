@@ -53,10 +53,10 @@ logo_style: 'width: 280px; height: 70px;'
       <center><h5 class="fs-4">KAIST 전산학부</h5></center>
       <center>
         <h5 class="fs-5">
-          <!-- <a href="https://www.youtube.com/watch?v=xGuCQ_gbm1c"> -->
-            <!--<i class="fa-brands fa-youtube" style="color: #ff2600;"></i>-->
+          <a href="https://www.youtube.com/watch?v=siM07TJVZPQ">
+            <i class="fa-brands fa-youtube" style="color: #ff2600;"></i>
             2025년 수상 업적(양자컴퓨팅) 해설
-          <!--</a>-->
+          </a>
         </h5>
       </center>
       <center>
@@ -75,10 +75,10 @@ logo_style: 'width: 280px; height: 70px;'
       <center><h5 class="fs-4">서울대 컴퓨터공학부</h5></center>
       <center>
         <h5 class="fs-5">
-          <!--<a href="https://www.youtube.com/watch?v=h_6yBqWQPx0">-->
-          <!--<i class="fa-brands fa-youtube" style="color: #ff2600;"></i>-->
+          <a href="https://www.youtube.com/watch?v=nqAw80gsCJQ">
+          <i class="fa-brands fa-youtube" style="color: #ff2600;"></i>
           2019년 수상 업적(컴퓨터그래픽스) 해설
-          <!--</a>-->
+          </a>
         </h5>
       </center>
       <center>수상자:
@@ -97,10 +97,10 @@ logo_style: 'width: 280px; height: 70px;'
       <center><h5 class="fs-4">POSTECH 컴퓨터공학과</h5></center>
       <center>
         <h5 class="fs-5">
-          <!-- <a href="https://www.youtube.com/watch?v=snBFsEvaX2Q">
-            <i class="fa-brands fa-youtube" style="color: #ff2600;"></i> -->
+          <a href="https://www.youtube.com/watch?v=945eKkASDdQ">
+            <i class="fa-brands fa-youtube" style="color: #ff2600;"></i>
               2005년 수상 업적(프로그래밍언어) 해설
-          <!-- </a> -->
+          </a>
         </h5>
       </center>
       <center>
